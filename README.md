@@ -1,5 +1,6 @@
 ## EXNO-3-DS
-NAME: V mythili 212223040123
+NAME: INFANTINA MARIA L
+REG: 212223100013
 DEPT: CSE
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
