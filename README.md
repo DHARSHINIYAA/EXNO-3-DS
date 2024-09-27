@@ -1,6 +1,6 @@
 ## EXNO-3-DS
-NAME: INFANTINA MARIA L
-REG: 212223100013
+NAME: DHARSHINIYAA KS
+REG: 212223100004
 DEPT: CSE
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
